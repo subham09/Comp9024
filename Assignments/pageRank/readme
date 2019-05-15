@@ -1,1 +1,1 @@
-
+Implementation of pagerank algorithm. Test set contains different pages with the name of link, open them and calculate the weight of each url and rank them by pagerank algorithm.
